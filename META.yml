@@ -18,9 +18,7 @@ no_index:
 provides:
   B::Generate:
     file: lib/B/Generate.pm
-    version: 1.28
-  B::OP:
-    file: lib/B/Generate.pm
+    version: 1.29
 requires:
   B: 1.09
   ExtUtils::CBuilder: 0
@@ -30,4 +28,4 @@ resources:
   MailingList: "mailto:\"600 subscribers\" <perl5-porters@perl.org>"
   license: http://dev.perl.org/licenses/
   repository: http://github.com/rurban/b-generate
-version: 1.28
+version: 1.29
