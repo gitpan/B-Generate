@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               B-Generate
-version:            1.3001
+version:            1.31
 abstract:           Create your own op trees.
 author:
     - Simon Cozens
@@ -13,7 +13,7 @@ build_requires:
 requires:
     B:                   1.09
     ExtUtils::CBuilder:  0
-    Module::Build:       0
+    ExtUtils::Embed:     0
 resources:
     license:      http://dev.perl.org/licenses/
     MailingList:  mailto:"600 subscribers" <perl5-porters@perl.org>
