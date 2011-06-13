@@ -15,3 +15,4 @@ t/op_list_bgen.t
 t/scope.t
 t/svclasses.t
 typemap
+SIGNATURE                                Public-key signature (added by MakeMaker)
