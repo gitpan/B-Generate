@@ -8,6 +8,7 @@ MANIFEST
 META.yml
 README
 t/basic.t
+t/const.t
 t/find_cv.t
 t/new_cv.t
 t/op_list.t
@@ -15,4 +16,5 @@ t/op_list_bgen.t
 t/scope.t
 t/svclasses.t
 typemap
+META.json                                Module JSON meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)
