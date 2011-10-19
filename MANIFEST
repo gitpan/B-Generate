@@ -16,5 +16,4 @@ t/op_list_bgen.t
 t/scope.t
 t/svclasses.t
 typemap
-META.json                                Module JSON meta-data (added by MakeMaker)
 SIGNATURE                                Public-key signature (added by MakeMaker)
