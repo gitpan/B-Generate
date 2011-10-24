@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               B-Generate
-version:            1.38
+version:            1.39
 abstract:           Create your own op trees.
 author:
     - Simon Cozens
@@ -11,7 +11,7 @@ configure_requires:
 build_requires:
     ExtUtils::MakeMaker:  0
 requires:
-    B:                   1.09
+    B:                   0
     ExtUtils::CBuilder:  0
     ExtUtils::Embed:     0
 resources:
