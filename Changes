@@ -1,9 +1,12 @@
 Revision history for the Perl extension B::Generate.
 
+1.46 - (Reini Urban)
+   - Support the 5.17.4 AV -> PADLIST change. (sprout)
+
 1.45 - (Reini Urban)
    - Remove fold_constants in $op->convert.
-     Inproper usage can lead to leaks, which p5p (Nicholas) hates.
-     constants have now to be folded beforehand, just manually.
+     Inproper usage can lead to leaks, which p5p hates. 
+     constants have to be folded beforehand, just manually.
    - skip t/cpan70398.t as B::Concise prints foul on 5.6.
 
 1.44 - (Reini Urban)
