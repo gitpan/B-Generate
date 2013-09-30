@@ -1,5 +1,5 @@
 This file contains message digests of all files listed in MANIFEST,
-signed via the Module::Signature module, version 0.68.
+signed via the Module::Signature module, version 0.73.
 
 To verify the content in this distribution, first make sure you have
 Module::Signature installed, then type:
@@ -15,29 +15,30 @@ not run its Makefile.PL or Build.PL.
 Hash: SHA1
 
 SHA1 be0627fff2e8aef3d2a14d5d7486babc8a4873ba Artistic
-SHA1 d612c9506a21d7adf68802b5545c154105ea84a6 Changes
+SHA1 13dab9a510c88d490f8b7720e9eb9caa67d6c6b2 Changes
 SHA1 18eaf66587c5eea277721d5e569a6e3cd869f855 Copying
-SHA1 f4679fdb0057dd642a274ade95d66646d349333a Generate.xs
-SHA1 a28447486629c387ad0d7b3821a0939afe255954 MANIFEST
-SHA1 89768efbea7f1c0d93214ab3dbe238b0b713bc2f META.yml
+SHA1 8192c5a9c162d2865ce343fb061e868e1114556b Generate.xs
+SHA1 fb7679fd08bc61917a99d849e08b24c95e453d4f MANIFEST
+SHA1 9afec55ab82ddcf84cfa4cb81d7589b1ee592b0d META.json
+SHA1 060e880c327b55ded64b55af0bd9290088970c14 META.yml
 SHA1 2e7ea115f21fb5f8ecda20133afc57b2e6c2758a Makefile.PL
 SHA1 6ac75dc52f2e89098d8bb1c7e91bc32e00723c03 README
-SHA1 c05bb70581acc18197099a7f5c66216d53f2b3d7 lib/B/Generate.pm
-SHA1 15e53b80c015e065148fd9b325f2700747e6b9ad t/basic.t
+SHA1 c9b94feeed18aa75182223f094106e00d069b2bd lib/B/Generate.pm
+SHA1 d4e55ed71ac604dd492c90c8dc638be30bb36dfe t/basic.t
 SHA1 fda442da609b89e14b07b6a23f126d7eb408f45d t/const.t
 SHA1 b26e810ddc4103ec7383dc380033c644577af030 t/cpan70396.t
 SHA1 30d1226a9629d065d03374419b4ed3da4f05b3d3 t/cpan70398.t
 SHA1 6ce284ce756540d81bdaed2aa3209eae7911faf8 t/find_cv.t
 SHA1 fec0a62196b7891117b983c6eff7d9df6ea8b476 t/new_cv.t
-SHA1 47ade10a61d9fc44878633226128bf16c195da9c t/op_list.t
+SHA1 342bc935de1e6895e61c191c4b72ef50bb769fbd t/op_list.t
 SHA1 20387883055f055ffa54cbaf5a383adf2ed40fa1 t/op_list_bgen.t
 SHA1 82692842d2e3df167aa11b828b3095cc06c15a75 t/scope.t
 SHA1 dea4c541e4930e8b54d7fedbd1fb495579d2fa87 t/svclasses.t
 SHA1 af9dc31ad44cf60a643af272929c022f4fe0b1d2 typemap
 -----BEGIN PGP SIGNATURE-----
-Version: GnuPG v1.4.12 (GNU/Linux)
+Version: GnuPG v1.4.14 (GNU/Linux)
 
-iEYEARECAAYFAlB22x8ACgkQmm2SYo/9yUJMmQCfU9zyT17QcgsHxcOHoJGYXS3P
-9zEAn1oTuLDeIvBfwQODsqA6FWNbq+B7
-=lj21
+iEYEARECAAYFAlJJo9IACgkQmm2SYo/9yUI7GQCfRsw2jsv/ZRFIoWuVSfht6A8V
+aQEAn0FEAMcCAF5PWWGppXtGTWySFBa+
+=PJG/
 -----END PGP SIGNATURE-----
