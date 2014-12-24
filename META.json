@@ -4,7 +4,7 @@
       "Simon Cozens"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.98, CPAN::Meta::Converter version 2.142060",
+   "generated_by" : "ExtUtils::MakeMaker version 7.04, CPAN::Meta::Converter version 2.143240",
    "license" : [
       "unknown"
    ],
@@ -47,5 +47,5 @@
          "url" : "http://github.com/rurban/b-generate"
       }
    },
-   "version" : "1.49"
+   "version" : "1.50"
 }
